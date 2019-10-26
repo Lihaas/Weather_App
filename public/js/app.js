@@ -1,7 +1,3 @@
-console.log('i am doing js');
-
-
-
 
 const form = document.querySelector('form')
 const input = document.querySelector('input')
